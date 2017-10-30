@@ -1,0 +1,59 @@
+body {
+	text-align: left;
+	color: #191919;
+	font-family: "Lucida Sans", "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 10px;
+	background-color: #fff;
+	float: none;
+}
+
+a:link {
+	text-decoration: none;
+	color: #1500ff;
+}
+
+a:hover {
+	color: #000;
+	background-color: #fdff55;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #0a0084;
+	text-decoration: none;
+}
+
+a.credit {
+	font-size: small;
+	text-decoration:none;
+	}
+
+h2 {
+	font-size: x-large;
+	font-weight: normal;
+	font-style: normal;
+}
+
+p.txt {
+	font-size: large;
+	margin-left: 15px;
+	margin-right: 10px;
+}
+
+p.credit {
+	font-size: small;
+}
+
+p.quote {
+	margin-right: 25%;
+	margin-left: 30px;
+	line-height: 200%;
+	font-style: italic;
+	font-size: x-large;
+}
+
+p.quotesource {
+	font-size: medium;
+	margin-right: 25%;
+	text-align: right;
+}

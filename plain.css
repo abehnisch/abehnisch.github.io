@@ -1,0 +1,75 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    margin-top: 3%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 3%;
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: black;
+    background-color: white;
+}
+
+header, footer, article {
+    display: block;
+}
+
+h1 {
+    font-size: 155%;
+    font-weight: 600;
+    line-height: 115%;
+}
+
+h2 {
+    font-size: 135%;
+    font-weight: 600;
+    line-height: 112%;
+}
+
+p {
+    font-size: 125%;
+    line-height: 140%;
+}
+
+p.small {
+    font-size: 115%;
+    line-height: 110%;
+}
+
+
+a {
+    color: navy;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+em {
+    font-style: italic;
+}
+
+kbd {
+    font-size: 125%;
+}
+
+li {
+    font-size: 125%;
+    line-height: 140%;
+}
+
+img {
+    background: transparent;
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    max-width: 95%;
+}
