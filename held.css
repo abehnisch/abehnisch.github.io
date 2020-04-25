@@ -4,8 +4,8 @@ html {
 
 body {
     margin-top: 1%;
-    margin-left: 1%;
-    margin-right: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
     margin-bottom: 1%;
     font-family: "Helvetica", "Arial", sans-serif;
     color: black;
@@ -17,9 +17,9 @@ header, footer, article {
 }
 
 h1 {
-    font-size: 255%;
+    font-size: 260%;
     font-weight: 600;
-    line-height: 115%;
+    line-height: 120%;
 }
 
 h2 {
