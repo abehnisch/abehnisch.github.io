@@ -4,8 +4,13 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
 <url>
   <loc>http://abehnisch.com/</loc>
-  <lastmod>2020-04-25T08:45:27+00:00</lastmod>
+  <lastmod>2020-04-26T12:57:18+00:00</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
+
+
 </urlset>
