@@ -17,19 +17,19 @@ header, footer, article {
 }
 
 h1 {
-    font-size: 260%;
+    font-size: 275%;
     font-weight: 600;
     line-height: 120%;
 }
 
 h2 {
-    font-size: 235%;
+    font-size: 245%;
     font-weight: 600;
-    line-height: 112%;
+    line-height: 115%;
 }
 
 p {
-    font-size: 225%;
+    font-size: 230%;
     line-height: 140%;
 }
 
