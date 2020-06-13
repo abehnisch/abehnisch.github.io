@@ -7,7 +7,7 @@ body {
     margin-left: 4%;
     margin-right: 4%;
     margin-bottom: 3%;
-    font-family: "Helvetica", "Arial", sans-serif;
+    font-family: Avenir, Verdana, sans-serif;
     color: black;
     background-color: white;
 }
@@ -17,19 +17,19 @@ header, footer, article {
 }
 
 h1 {
-    font-size: 165%;
+    font-size: 180%;
     font-weight: 600;
-    line-height: 120%;
+    line-height: 140%;
 }
 
 h2 {
-    font-size: 135%;
+    font-size: 160%;
     font-weight: 600;
-    line-height: 112%;
+    line-height: 140%;
 }
 
 p {
-    font-size: 125%;
+    font-size: 140%;
     line-height: 140%;
 }
 
