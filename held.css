@@ -7,7 +7,7 @@ body {
     margin-left: 2%;
     margin-right: 2%;
     margin-bottom: 1%;
-    font-family: "Helvetica", "Arial", sans-serif;
+    font-family: Avenir, Verdana, sans-serif;
     color: black;
     background-color: white;
 }
@@ -29,12 +29,12 @@ h2 {
 }
 
 p {
-    font-size: 230%;
+    font-size: 235%;
     line-height: 140%;
 }
 
 p.small {
-    font-size: 215%;
+    font-size: 225%;
     line-height: 110%;
 }
 
