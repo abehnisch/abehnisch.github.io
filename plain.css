@@ -17,30 +17,29 @@ header, footer, article {
 }
 
 h1 {
-    font-size: 180%;
+    font-size: 200%;
     font-weight: 600;
-    line-height: 140%;
+    line-height: 150%;
 }
 
 h2 {
-    font-size: 160%;
+    font-size: 175%;
     font-weight: 600;
-    line-height: 140%;
+    line-height: 150%;
 }
 
 p {
-    font-size: 140%;
-    line-height: 140%;
-    max-width: 1200px;
-    word-break: break-all;
+    font-size: 150%;
+    line-height: 150%;
+    max-width: 1400px;
+    word-break: normal;
 }
 
 p.small {
-    font-size: 115%;
-    line-height: 110%;
-    max-width: 1200px;
-    word-break: break-all;
-
+    font-size: 125%;
+    line-height: 125%;
+    max-width: 1400px;
+    word-break: normal;
 }
 
 
@@ -67,11 +66,10 @@ kbd {
 }
 
 li {
-    font-size: 125%;
-    line-height: 140%;
-    max-width: 800px;
-    word-break: break-all;
-
+    font-size: 150%;
+    line-height: 150%;
+    max-width: 1200px;
+    word-break: normal;
 }
 
 img {
