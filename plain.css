@@ -31,16 +31,11 @@ h2 {
 p {
     font-size: 140%;
     line-height: 140%;
-    max-width: 800px;
-    word-wrap: break-word;
 }
 
 p.small {
     font-size: 115%;
     line-height: 110%;
-    max-width: 800px;
-    word-wrap: break-word;
-
 }
 
 
