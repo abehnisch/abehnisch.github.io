@@ -32,16 +32,13 @@ p {
     font-size: 150%;
     line-height: 150%;
     max-width: 1400px;
-    word-break: normal;
 }
 
 p.small {
     font-size: 125%;
     line-height: 125%;
     max-width: 1400px;
-    word-break: normal;
 }
-
 
 a {
     color: navy;
@@ -69,7 +66,6 @@ li {
     font-size: 150%;
     line-height: 150%;
     max-width: 1200px;
-    word-break: normal;
 }
 
 img {

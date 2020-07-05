@@ -17,25 +17,25 @@ header, footer, article {
 }
 
 h1 {
-    font-size: 285%;
+    font-size: 300%;
     font-weight: 600;
-    line-height: 120%;
+    line-height: 150%;
 }
 
 h2 {
-    font-size: 245%;
+    font-size: 275%;
     font-weight: 600;
-    line-height: 115%;
+    line-height: 150%;
 }
 
 p {
-    font-size: 235%;
-    line-height: 140%;
+    font-size: 250%;
+    line-height: 150%;
 }
 
 p.small {
     font-size: 225%;
-    line-height: 110%;
+    line-height: 125%;
 }
 
 a {
