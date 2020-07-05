@@ -31,13 +31,13 @@ h2 {
 p {
     font-size: 150%;
     line-height: 150%;
-    max-width: 1400px;
+    max-width: 1200px;
 }
 
 p.small {
     font-size: 125%;
     line-height: 125%;
-    max-width: 1400px;
+    max-width: 1200px;
 }
 
 a {
@@ -71,7 +71,7 @@ kbd {
 li {
     font-size: 150%;
     line-height: 150%;
-    max-width: 1200px;
+    max-width: 1000px;
 }
 
 img {
