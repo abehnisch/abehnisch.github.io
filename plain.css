@@ -45,10 +45,6 @@ a {
     text-decoration: none;
 }
 
-code { 
-    font-family: Courier, monospace;
-}
-
 a:hover {
     color: red;
     text-decoration: none;
@@ -60,6 +56,22 @@ b, strong {
 
 em {
     font-style: italic;
+}
+
+code { 
+    font-family: Courier, monospace;
+}
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 60px;
+    margin-right: 10px;
+    font-family: Times New Roman, serif;
+    max-width: 1000px;
+    color: black;
+    background-color: ivory;   
 }
 
 kbd {
