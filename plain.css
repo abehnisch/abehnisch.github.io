@@ -23,21 +23,21 @@ h1 {
 }
 
 h2 {
-    font-size: 170%;
+    font-size: 160%;
     font-weight: 500;
     line-height: 150%;
 }
 
 p {
-    font-size: 140%;
+    font-size: 130%;
     line-height: 150%;
-    max-width: 1000px;
+    max-width: 900px;
 }
 
 p.small {
-    font-size: 110%;
+    font-size: 100%;
     line-height: 125%;
-    max-width: 1000px;
+    max-width: 900px;
 }
 
 a {
@@ -72,17 +72,17 @@ blockquote {
     padding-left: 15px;
     padding-right: 5px;
     font-family: Times New Roman, serif;
-    max-width: 900px;
+    max-width: 850px;
     color: black;
     background-color: ghostwhite;
 }
 
 kbd {
-    font-size: 110%;
+    font-size: 100%;
 }
 
 li {
-    font-size: 140%;
+    font-size: 130%;
     line-height: 150%;
     max-width: 800px;
 }
