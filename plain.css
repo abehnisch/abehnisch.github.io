@@ -7,7 +7,7 @@ body {
     margin-left: 4%;
     margin-right: 4%;
     margin-bottom: 3%;
-    font-family: Times New Roman, serif;
+    font-family: Georgia, Times New Roman, serif;
     color: black;
     background-color: white;
 }
@@ -71,7 +71,7 @@ blockquote {
     border-left: 10px solid lavender;
     padding-left: 15px;
     padding-right: 5px;
-    font-family: Times New Roman, serif;
+    font-family: Georgia, Times New Roman, serif;
     max-width: 850px;
     color: black;
     background-color: ghostwhite;
