@@ -18,25 +18,25 @@ header, footer, article {
 
 h1 {
     font-size: 200%;
-    font-weight: 600;
-    line-height: 150%;
+    font-weight: bold;
+    line-height: 160%;
 }
 
 h2 {
     font-size: 160%;
-    font-weight: 500;
-    line-height: 150%;
+    font-weight: bold;
+    line-height: 160%;
 }
 
 p {
     font-size: 130%;
-    line-height: 150%;
+    line-height: 160%;
     max-width: 900px;
 }
 
 p.small {
     font-size: 100%;
-    line-height: 125%;
+    line-height: 130%;
     max-width: 900px;
 }
 
@@ -51,7 +51,7 @@ a:hover {
 }
 
 b, strong {
-    font-weight: 600;
+    font-weight: bold;
 }
 
 em {
@@ -83,7 +83,7 @@ kbd {
 
 li {
     font-size: 130%;
-    line-height: 150%;
+    line-height: 160%;
     max-width: 800px;
 }
 
