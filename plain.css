@@ -23,20 +23,20 @@ h1 {
 }
 
 h2 {
-    font-size: 200%;
-    font-weight: bold;
+    font-size: 190%;
+    font-weight: bolder;
     line-height: 180%;
 }
 
 p {
-    font-size: 180%;
+    font-size: 170%;
     line-height: 180%;
     max-width: 900px;
 }
 
 p.small {
-    font-size: 140%;
-    line-height: 140%;
+    font-size: 130%;
+    line-height: 130%;
     max-width: 900px;
 }
 
@@ -78,11 +78,11 @@ blockquote {
 }
 
 kbd {
-    font-size: 140%;
+    font-size: 100%;
 }
 
 li {
-    font-size: 180%;
+    font-size: 170%;
     line-height: 180%;
     max-width: 800px;
 }
