@@ -17,26 +17,26 @@ header, footer, article {
 }
 
 h1 {
-    font-size: 200%;
+    font-size: 240%;
     font-weight: bold;
-    line-height: 160%;
+    line-height: 180%;
 }
 
 h2 {
-    font-size: 160%;
+    font-size: 200%;
     font-weight: bold;
-    line-height: 160%;
+    line-height: 180%;
 }
 
 p {
-    font-size: 130%;
-    line-height: 160%;
+    font-size: 180%;
+    line-height: 180%;
     max-width: 900px;
 }
 
 p.small {
-    font-size: 100%;
-    line-height: 130%;
+    font-size: 140%;
+    line-height: 140%;
     max-width: 900px;
 }
 
@@ -78,12 +78,12 @@ blockquote {
 }
 
 kbd {
-    font-size: 100%;
+    font-size: 140%;
 }
 
 li {
-    font-size: 130%;
-    line-height: 160%;
+    font-size: 180%;
+    line-height: 180%;
     max-width: 800px;
 }
 
