@@ -66,8 +66,8 @@ blockquote {
     display: block;
     margin-top: 1em;
     margin-bottom: 1em;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 1em;
+    margin-right: 1em;
     border-left: 10px solid lavender;
     padding-left: 15px;
     padding-right: 5px;
