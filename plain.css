@@ -29,13 +29,13 @@ h2 {
 }
 
 p {
-    font-size: 160%;
+    font-size: 150%;
     line-height: 180%;
     max-width: 900px;
 }
 
 p.small {
-    font-size: 130%;
+    font-size: 125%;
     line-height: 130%;
     max-width: 900px;
 }
@@ -82,7 +82,7 @@ kbd {
 }
 
 li {
-    font-size: 160%;
+    font-size: 150%;
     line-height: 180%;
     max-width: 800px;
 }
