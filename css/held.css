@@ -1,0 +1,68 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    font-family: Times New Roman, serif;
+    color: black;
+    background-color: white;
+}
+
+header, footer, article {
+    display: block;
+}
+
+h1 {
+    font-size: 300%;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+h2 {
+    font-size: 275%;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+p {
+    font-size: 250%;
+    line-height: 150%;
+}
+
+p.small {
+    font-size: 225%;
+    line-height: 125%;
+}
+
+a {
+    color: navy;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+em {
+    font-style: italic;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+kbd {
+    font-size: 125%;
+}
+
+img {
+    background: transparent;
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}

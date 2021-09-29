@@ -1,0 +1,31 @@
+body {
+	color:white;
+	background-color:#4a525a;
+	font-family: "Lucida Sans", "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: left;
+	float: none;
+	margin: 10px;
+}
+p.title {
+	color:orange;
+	font-size: xx-large;
+	padding-left: 20px;
+}
+
+p {
+	padding-left: 20px;
+}
+p.credit {
+	color:silver;
+	font-size: small;
+}
+a {
+	text-decoration:none;
+	}
+a.credit {
+	font-size: small;
+	text-decoration:none;
+	}
+a:link {color:lightsteelblue}
+a:visited {color:thistle}
+a:hover {color:lightskyblue}

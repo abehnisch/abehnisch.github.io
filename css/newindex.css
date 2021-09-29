@@ -1,0 +1,27 @@
+body {
+	color:black;
+	background-color:#eeeeee;
+	font-family: "Lucida Grande", Arial, sans-serif;
+	text-align: left;
+	float: none;
+	margin: 10px;
+}
+p.top {
+	font-size: large;
+	line-height: 150%;
+	padding-left: 20px;
+	padding-right: 30px;
+}
+
+p {
+	font-size: medium;
+	line-height: 150%;
+	padding-left: 20px;
+	padding-right: 30px;
+}
+a {
+	text-decoration:none;
+}
+a:link {color:midnightblue}
+a:visited {color:darkslategrey}
+a:hover {color:blue}
