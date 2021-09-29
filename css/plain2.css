@@ -13,7 +13,7 @@ body {
 }
 
 div {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 header, footer, article {
@@ -23,30 +23,30 @@ header, footer, article {
 h1 {
     font-size: 240%;
     font-weight: bold;
-    line-height: 160%;
+    line-height: 180%;
 }
 
 h2 {
     font-size: 190%;
     font-weight: bolder;
-    line-height: 160%;
+    line-height: 180%;
 }
 
 h3 {
     font-size: 150%;
     font-weight: bolder;
-    line-height: 160%;
+    line-height: 180%;
 }
 
 p {
     font-size: 150%;
-    line-height: 160%;
+    line-height: 180%;
     max-width: 900px;
 }
 
 p.small {
     font-size: 125%;
-    line-height: 120%;
+    line-height: 130%;
     max-width: 900px;
 }
 
