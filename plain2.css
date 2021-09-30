@@ -12,12 +12,12 @@ body {
     background-color: white;
 }
 
-div {
-    margin-bottom: 50px;
+header, footer, article, section {
+    display: block;
 }
 
-header, footer, article {
-    display: block;
+header, article, div, section {
+    margin-bottom: 50px;
 }
 
 h1 {
