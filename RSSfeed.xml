@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Alexej Behnisch</title>
+<link>https://abehnisch.com/</link>
+<description>Personal website of Alexej Behnisch</description>
+<language>en-gb</language>
+<image>
+<title>Alexej Behnisch</title>
+<link>https://abehnisch.com</link>
+<url>https://abehnisch.com/img/icons/apple-touch-icon-ipad-retina-152x152.png</url>
+<width>152</width>
+<height>152</height>
+</image>
+<item>
+<title>The population of the Algarve</title>
+<link>https://abehnisch.com/algarve-populacao.html</link>
+<guid>https://abehnisch.com/algarve-populacao.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>A language exercise in Portuguese with interesting population charts about the Algarve</description>
+</item>
+<item>
+<title>Rediscovering Amílcar Cabral</title>
+<link>https://abehnisch.com/amilcar-cabral.html</link>
+<guid>https://abehnisch.com/amilcar-cabral.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>A book review about a recent Cabral biography combined with my personal story</description>
+</item>
+<item>
+<title>Rank Feeling</title>
+<link>https://abehnisch.com/rank-feeling.html</link>
+<guid>https://abehnisch.com/rank-feeling.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>In progress: An attempt to come up with a formula to describe subjective ranks in football</description>
+</item>
+<item>
+<title>All Bundesliga Champions since 2000</title>
+<link>https://abehnisch.com/bundesliga-champions.html</link>
+<guid>https://abehnisch.com/bundesliga-champions.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>A nerdy but fair adjustment of the league table in Germany</description>
+</item>
+<item>
+<title>The Great Reduction</title>
+<link>https://abehnisch.com/great-reduction.html</link>
+<guid>https://abehnisch.com/great-reduction.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>An essay from the first corona lockdown speculating about the future of football</description>
+</item>
+<item>
+<title>Do Tactics Matter?</title>
+<link>https://abehnisch.com/do-tactics-matter.html</link>
+<guid>https://abehnisch.com/do-tactics-matter.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>In progress: An essay about the causal role of tactics in football (excerpts)</description>
+</item>
+<item>
+<title>About my name</title>
+<link>https://abehnisch.com/about-my-name.html</link>
+<guid>https://abehnisch.com/about-my-name.html</guid>
+<pubDate>Fri, 1 Oct 2021 17:00:00 GMT</pubDate>
+<description>An explainer about my name, what it means, and how to pronounce it</description>
+</item>
+</channel>
+</rss>
