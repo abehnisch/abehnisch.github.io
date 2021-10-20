@@ -35,6 +35,11 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
+  <loc>https://abehnisch.com/how-read-league-table.html</loc>
+  <lastmod>2020-09-29</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
   <loc>https://abehnisch.com/algarve-populacao.html</loc>
   <lastmod>2020-10-08</lastmod>
   <changefreq>weekly</changefreq>
@@ -47,6 +52,11 @@
 <url>
   <loc>https://abehnisch.com/slow-train-germany.html</loc>
   <lastmod>2020-10-09</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://abehnisch.com/super-league.html</loc>
+  <lastmod>2020-10-20</lastmod>
   <changefreq>weekly</changefreq>
 </url>    
 </urlset>

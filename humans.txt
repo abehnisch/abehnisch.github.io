@@ -1,0 +1,8 @@
+Website URL:    https://abehnisch.com
+
+Author:         Alexej Behnisch
+Email:          behnisch at gmail.com
+Twitter:        https://twitter.com/behnisch
+
+This is a handmade website in HTML and CSS, hosted on GitHub.
+Let me know any errors!
