@@ -7,7 +7,7 @@ body {
     margin-left: 3%;
     margin-right: 3%;
     margin-bottom: 2%;
-    font-family: Charter, Noto Serif, Georgia, Times New Roman, serif;
+    font-family: Charter, Noto Serif, Times New Roman, serif;
     color: #222222;
     background-color: #fafafa;
 }
@@ -81,7 +81,7 @@ blockquote {
     border-left: 10px solid lavender;
     padding-left: 15px;
     padding-right: 5px;
-    font-family: Charter, Noto Serif, Georgia, Times New Roman, serif;
+    font-family: Charter, Noto Serif, Times New Roman, serif;
     max-width: 850px;
     color: #222222;
     background-color: ghostwhite;
