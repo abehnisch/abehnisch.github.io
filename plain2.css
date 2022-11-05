@@ -44,6 +44,13 @@ p {
     max-width: 900px;
 }
 
+p.large {
+    font-size: 180%;
+    font-weight: bolder;
+    line-height: 150%;
+    max-width: 900px;
+}
+
 p.small {
     font-size: 125%;
     line-height: 125%;
@@ -53,13 +60,6 @@ p.small {
 a {
     color: darkblue;
     text-decoration: none;
-}
-
-a.large {
-    color: darkblue;
-    text-decoration: none;
-    font-size: 160%;
-    font-weight: bolder;
 }
 
 a:hover {
