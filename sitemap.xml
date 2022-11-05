@@ -6,57 +6,62 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://abehnisch.com/</loc>
-  <lastmod>2020-09-29</lastmod>
+  <lastmod>2022-11-05</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/about-my-name.html</loc>
-  <lastmod>2020-09-29</lastmod>
+  <lastmod>2022-11-05</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/great-reduction.html</loc>
-  <lastmod>2020-09-29</lastmod>
+  <lastmod>2022-11-05</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/do-tactics-matter.html</loc>
-  <lastmod>2020-09-29</lastmod>
+  <lastmod>2022-11-05</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/rank-feeling.html</loc>
-  <lastmod>2020-09-29</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/bundesliga-champions.html</loc>
-  <lastmod>2020-09-29</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/how-read-league-table.html</loc>
-  <lastmod>2020-09-29</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/algarve-populacao.html</loc>
-  <lastmod>2020-10-08</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/amilcar-cabral.html</loc>
-  <lastmod>2020-10-08</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/slow-train-germany.html</loc>
-  <lastmod>2020-10-09</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://abehnisch.com/super-league.html</loc>
-  <lastmod>2020-10-20</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://abehnisch.com/write-without-adverbs.html</loc>
+  <lastmod>2022-11-05</lastmod>
+  <changefreq>monthly</changefreq>
 </url>    
 </urlset>
