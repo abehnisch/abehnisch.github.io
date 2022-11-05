@@ -4,7 +4,7 @@ html {
 
 body {
     margin-top: 1%;
-    margin-left: 2%;
+    margin-left: 3%;
     margin-right: 2%;
     margin-bottom: 1%;
     font-family: Charter, Noto Serif, Times New Roman, serif;
@@ -53,6 +53,13 @@ p.small {
 a {
     color: darkblue;
     text-decoration: none;
+}
+
+a.large {
+    color: darkblue;
+    text-decoration: none;
+    font-size: 160%;
+    font-weight: bolder;
 }
 
 a:hover {
