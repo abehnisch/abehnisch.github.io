@@ -9,7 +9,7 @@ body {
     margin-bottom: 1%;
     font-family: Charter, Noto Serif, Times New Roman, serif;
     color: #262626;
-    background-color: #fafafa;
+    background-color: #fefefe;
 }
 
 header, footer, article, section {
@@ -51,7 +51,7 @@ p.small {
 }
 
 a {
-    color: #040072;
+    color: darkblue;
     text-decoration: none;
 }
 
