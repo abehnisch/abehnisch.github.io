@@ -28,26 +28,19 @@ h1 {
 
 h2 {
     font-size: 180%;
-    font-weight: bolder;
+    font-weight: bold;
     line-height: 150%;
 }
 
 h3 {
     font-size: 160%;
-    font-weight: bolder;
+    font-weight: bold;
     line-height: 150%;
 }
 
 p {
     font-size: 150%;
     line-height: 175%;
-    max-width: 900px;
-}
-
-p.large {
-    font-size: 180%;
-    font-weight: bolder;
-    line-height: 150%;
     max-width: 900px;
 }
 
