@@ -1,8 +1,16 @@
-Website URL:    https://abehnisch.com
+URL:        https://abehnisch.com
 
-Author:         Alexej Behnisch
-Email:          behnisch at gmail.com
-Twitter:        https://twitter.com/behnisch
+RSS:        https://abehnisch.com/RSSfeed.xml
 
-This is a handmade website in HTML and CSS, hosted on GitHub.
-Let me know any errors!
+Host:       https://github.com/abehnisch
+
+Author:     Alexej Behnisch
+Email:      behnisch@gmail.com
+
+Twitter:    https://twitter.com/behnisch (less active)
+
+Location:   Faro, Algarve, Portugal
+
+I hand-code my website in HTML and CSS.
+
+Please let me know any errors!
