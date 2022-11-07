@@ -8,9 +8,11 @@
 }
 
 body {
+    font-size: 12pt;
     font-family: Charter, Noto Serif, Times New Roman, serif;
     color: black;
     background-color: white;
+    margin: 1cm;
 }
 
 header, footer, article, section {
@@ -22,30 +24,30 @@ header, article, div, section {
 }
 
 h1 {
-    font-size: 240%;
+    font-size: 18pt;
     font-weight: bold;
     line-height: 150%;
 }
 
 h2 {
-    font-size: 180%;
+    font-size: 16pt;
     font-weight: bold;
     line-height: 150%;
 }
 
 h3 {
-    font-size: 160%;
+    font-size: 15pt;
     font-weight: bold;
     line-height: 150%;
 }
 
 p {
-    font-size: 150%;
+    font-size: 14pt;
     line-height: 175%;
 }
 
 p.small {
-    font-size: 125%;
+    font-size: 12pt;
     line-height: 125%;
 }
 
@@ -56,7 +58,9 @@ a {
 
 a[href]:after {
 		content: ' (' attr(href) ')';
-	}
+        font-weight: normal;
+        font-style: normal;
+}
 
 b, strong {
     font-weight: bold;
@@ -85,7 +89,7 @@ blockquote {
 }
 
 kbd {
-    font-size: 125%;
+    font-size: 12pt;
 }
 
 img {
@@ -102,7 +106,7 @@ table {
 }
 
 th, td {
-    font-size: 125%;
+    font-size: 12pt;
     padding-top: 3px;
     padding-bottom: 3px;
     padding-left: 5px;
