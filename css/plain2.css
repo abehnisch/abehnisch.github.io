@@ -1,3 +1,21 @@
+@media screen and (max-width: 599px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  html {
+    font-size: 24px;
+  }
+}
+
 html {
     -webkit-font-smoothing: antialiased;
 }
@@ -21,19 +39,19 @@ header, article, div, section {
 }
 
 h1 {
-    font-size: 240%;
+    font-size: 250%;
     font-weight: bold;
     line-height: 150%;
 }
 
 h2 {
-    font-size: 180%;
+    font-size: 200%;
     font-weight: bold;
     line-height: 150%;
 }
 
 h3 {
-    font-size: 160%;
+    font-size: 175%;
     font-weight: bold;
     line-height: 150%;
 }
@@ -45,8 +63,8 @@ p {
 }
 
 p.small {
-    font-size: 125%;
-    line-height: 125%;
+    font-size: 100%;
+    line-height: 100%;
     max-width: 900px;
 }
 
@@ -64,12 +82,12 @@ b, strong {
     font-weight: bold;
 }
 
-em {
+i, em {
     font-style: italic;
 }
 
 code { 
-    font-family: Courier New, Courier, monospace;
+    font-family: Courier Prime, Courier New, Courier, monospace;
 }
 
 blockquote {
