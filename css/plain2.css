@@ -10,9 +10,27 @@
   }
 }
 
+@media screen and (min-width: 900px) {
+  html {
+    font-size: 22px;
+  }
+}
+
 @media screen and (min-width: 1200px) {
   html {
     font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  html {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  html {
+    font-size: 28px;
   }
 }
 
@@ -63,8 +81,8 @@ p {
 }
 
 p.small {
-    font-size: 100%;
-    line-height: 100%;
+    font-size: 125%;
+    line-height: 125%;
     max-width: 900px;
 }
 
