@@ -18,13 +18,13 @@
 
 @media screen and (min-width: 1200px) {
   html {
-    font-size: 26px;
+    font-size: 25px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   html {
-    font-size: 28px;
+    font-size: 26px;
   }
 }
 
