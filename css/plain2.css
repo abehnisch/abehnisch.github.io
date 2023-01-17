@@ -6,37 +6,37 @@
 
 @media screen and (min-width: 300px) {
   html {
-    font-size: 20px;
+    font-size: 19px;
   }
 }
 
 @media screen and (min-width: 600px) {
   html {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
 @media screen and (min-width: 900px) {
   html {
-    font-size: 24px;
+    font-size: 21px;
   }
 }
 
 @media screen and (min-width: 1200px) {
   html {
-    font-size: 26px;
+    font-size: 22px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   html {
-    font-size: 27px;
+    font-size: 23px;
   }
 }
 
 @media screen and (min-width: 1800px) {
   html {
-    font-size: 28px;
+    font-size: 24px;
   }
 }
 
@@ -82,7 +82,7 @@ h3 {
 
 p {
     font-size: 150%;
-    line-height: 150%;
+    line-height: 140%;
     max-width: 900px;
 }
 
