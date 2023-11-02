@@ -50,8 +50,8 @@ body {
     margin-right: 2%;
     margin-bottom: 1%;
     font-family: Charter, Noto Serif, Times New Roman, serif;
-    color: #0A0A0A;
-    background-color: #f5f5f5;
+    color: #060606;
+    background-color: #f9f9f9;
 }
 
 header, footer, article, section {
@@ -82,7 +82,7 @@ h3 {
 
 p {
     font-size: 150%;
-    line-height: 150%;
+    line-height: 145%;
     max-width: 900px;
 }
 
@@ -117,7 +117,7 @@ i, em {
 
 code { 
     font-family: SF Mono, Noto Mono, Courier, monospace;
-    background-color: ghostwhite;
+    background-color: #f5f5f5;
 }
 
 blockquote {
@@ -131,8 +131,8 @@ blockquote {
     padding-right: 5px;
     font-family: Charter, Noto Serif, Times New Roman, serif;
     max-width: 850px;
-    color: #262626;
-    background-color: ghostwhite;
+    color: #060606;
+    background-color: #f5f5f5;
 }
 
 kbd {
