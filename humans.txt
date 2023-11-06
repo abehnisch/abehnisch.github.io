@@ -5,9 +5,8 @@ RSS:        https://abehnisch.com/RSSfeed.xml
 Host:       https://github.com/abehnisch
 
 Author:     Alexej Behnisch
-Email:      behnisch@gmail.com
 
-Twitter:    https://twitter.com/behnisch (less active)
+Email:      behnisch@gmail.com
 
 Location:   Faro, Algarve, Portugal
 
